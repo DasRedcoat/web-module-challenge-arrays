@@ -7,7 +7,7 @@
 - use arrays to store and access data
 - use array properties and array methods
 
-## Introduction.
+## Introduction
 
 Baskin Robins, a global chain of ice cream parlors, first opened in 1945 and served 31 flavors of Ice Cream. They have grown to almost 6,000 franchises world wide and have now became famous for serving exactly 31 flavors at a time. Since they first opened, they no longer serve the same 31 flavors, but they do always have exactly 31 ice cream flavors available.
 
